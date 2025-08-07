@@ -1,7 +1,30 @@
+body {
+    background-color:chocolate;
+    padding-block: 25px;
+}
+
 h1 {
     text-align: center;
 
+
 }
 img {
-    
+    width: 100%;
+}
+div {
+    background-color:rgb(221, 201, 18);
+    width: 800px;
+    margin-inline: auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+#ordenada {
+    background-color: gold;
+    color: black;
+    line-height: 30px;
+}
+#nordenada {
+    background-color: gold;
+    color: black;
+    line-height: 30px;
 }
